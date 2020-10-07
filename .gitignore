@@ -60,3 +60,4 @@ react-native-google-places.iml
 .gradle
 .vscode
 local.properties
+gradlew
